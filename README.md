@@ -13,7 +13,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gravatar.svg" />][gravatar]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="codeSTACKr | Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][tumblr]
 
 ---
@@ -34,4 +34,4 @@
 [twitter]: https://twitter.com/jesseegutirrez
 [youtube]: https://www.youtube.com/channel/UChZYs-SiY8XsIY46GR35l8g/about
 [tumblr]: https://thepurplelifeofsierra.tumblr.com/
-[linkedin]: https://www.linkedin.com/in/plastic-molder-pro/
+[medium]: https://plasticinjectionmolding.medium.com/
